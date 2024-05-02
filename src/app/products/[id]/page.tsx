@@ -16,7 +16,7 @@ const sampleProduct = {
   images: [
     '/Badam-Milk.png',
     '/Chocolate-Milk.png',
-    '/Rose-Milk.webp',
+    '/Rose-Milk.png',
   ],
 };
 const products = [
@@ -31,7 +31,7 @@ const products = [
   {
     id: 2,
     color:"red",
-    imageUrl: '/Rose-Milk.webp',
+    imageUrl: '/Rose-Milk.png',
     title: 'Rose Milk',
     description: 'Experience the soothing and aromatic Rose Milk by Pura Company, a perfect blend of traditional flavors with a modern twist.',
     price: 'Rs.35.00'
