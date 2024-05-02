@@ -12,7 +12,7 @@ const sampleProduct = {
   id: 1,
   title: 'Flavored Drink',
   description: 'Delicious flavored milk in Rose,chocolate,badham',
-  price: 'Rs.150.00',
+  price: 'Rs.35.00',
   images: [
     '/Badam-Milk.png',
     '/Chocolate-Milk.png',
